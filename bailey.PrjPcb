@@ -273,23 +273,6 @@ GenerateClassCluster=0
 DocumentUniqueId=AAGJJSRW
 
 [Document14]
-DocumentPath=POWER.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ZCCHEEIO
-
-[Document15]
 DocumentPath=Titan.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -306,7 +289,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RBCEWIPP
 
-[Document16]
+[Document15]
 DocumentPath=Titan.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -323,7 +306,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FKHDAQVC
 
-[Document17]
+[Document16]
 DocumentPath=OSC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -339,6 +322,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TCONJWWI
+
+[Document17]
+DocumentPath=POWER.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ZCCHEEIO
 
 [Document18]
 DocumentPath=MCU.SchDoc
