@@ -1,3 +1,3 @@
 # Bailey
 
-24 GHZ radar master board
+24 GHz radar master board
