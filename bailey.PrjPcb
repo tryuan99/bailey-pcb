@@ -426,6 +426,10 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
+DocumentPath=
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs for bailey\BOM\BOM-BAILEY.xlsx
 DItemRevisionGUID=
 
